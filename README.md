@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeepjohndev
-- 👋 Full Stack Developer | Building Digital Solutions
+- 👋 Front end Developer | Building Digital Solutions
 - 🚀 Passionate about crafting innovative and scalable web applications,
 - I'm a Full Stack Developer with a strong focus on creating seamless user experiences.
 - My expertise lies in designing and implementing end-to-end solutions, combining both front-end and back-end technologies.
